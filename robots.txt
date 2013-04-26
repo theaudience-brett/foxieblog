@@ -1,4 +1,4 @@
-User-agent: *
-Disallow: 
+# www.robotstxt.org/
+# http://code.google.com/web/controlcrawlindex/
 
-Sitemap: http://theaudience-brett.github.io/foxieblog/sitemap.xml 
+User-agent: *

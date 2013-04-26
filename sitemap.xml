@@ -1,15 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://theaudience-brett.github.io/foxieblog/robots.txt</loc>
-        <lastmod>2013-04-26T06:16:03+01:00</lastmod>
+        <loc>
+            http://theaudience-brett.github.io/foxieblog/blog/2013/04/26/my-first-post-and-an-introduction-to-my-task/
+        </loc>
+        <lastmod>2013-04-26T07:17:26+01:00</lastmod>
     </url>
     <url>
         <loc>http://theaudience-brett.github.io/foxieblog/blog/archives/</loc>
-        <lastmod>2013-04-26T06:16:03+01:00</lastmod>
+        <lastmod>2013-04-26T07:17:26+01:00</lastmod>
     </url>
     <url>
         <loc>http://theaudience-brett.github.io/foxieblog/</loc>
-        <lastmod>2013-04-26T06:16:03+01:00</lastmod>
+        <lastmod>2013-04-26T07:17:26+01:00</lastmod>
     </url>
 </urlset>

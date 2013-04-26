@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[A Continuous Delivery Journey]]></title>
-  <link href="http://theaudience-brett.github.io/foxieblog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Introduction | A Continuous Delivery Journey]]></title>
+  <link href="http://theaudience-brett.github.io/foxieblog/blog/categories/introduction/atom.xml" rel="self"/>
   <link href="http://theaudience-brett.github.io/foxieblog/"/>
   <updated>2013-04-26T07:17:33+01:00</updated>
   <id>http://theaudience-brett.github.io/foxieblog/</id>
