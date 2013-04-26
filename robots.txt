@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://theaudience-brett.github.io/foxieblog/sitemap.xml 
