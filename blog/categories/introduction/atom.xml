@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Introduction | A Continuous Delivery Journey]]></title>
   <link href="http://theaudience-brett.github.io/foxieblog/blog/categories/introduction/atom.xml" rel="self"/>
   <link href="http://theaudience-brett.github.io/foxieblog/"/>
-  <updated>2013-04-26T07:46:26+01:00</updated>
+  <updated>2013-04-26T07:49:03+01:00</updated>
   <id>http://theaudience-brett.github.io/foxieblog/</id>
   <author>
     <name><![CDATA[Brett Mack]]></name>
@@ -20,7 +20,7 @@
     <id>http://theaudience-brett.github.io/foxieblog/blog/2013/04/26/my-first-post-and-an-introduction-to-my-task</id>
     <content type="html"><![CDATA[<p>w00, my <em>first</em> post <strong>yay yay</strong>! <a href="http://www.foxienet.com">Foxienet</a></p>
 
-<p>Here, have an image: <img src="/foxieblog/images/foxie1.jpg" title="Totally cute foxie" ></p>
+<p>Here, have an image: <img src="/images/foxie1.jpg" title="Totally cute foxie" ></p>
 ]]></content>
   </entry>
   
